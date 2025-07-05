@@ -1,6 +1,6 @@
 # 🧠 Sign Language Interpreter 🤟 | Real-Time Gesture & action to Text & Action Conversion
 
-> Built with ❤ by Meghana Kommana  
+> Built with by Meghana Kommana  
 > Empowering communication through AI + Computer Vision.
 
 ---
